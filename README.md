@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm a Computer Science Specialist and Statistics Minor student at the University of Toronto with an interest in software development, specifically frontend/web, mobile and full stack development. 
+
 <!--
 **anniexwang/anniexwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
